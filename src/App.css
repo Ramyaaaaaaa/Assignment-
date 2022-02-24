@@ -1,0 +1,17 @@
+
+.img{
+  display:block;
+}
+* {
+ 
+  background-color: orange;
+}
+.column {
+
+display:flex;
+  width: 33.33%;
+  padding: 5px;
+}
+.desc{
+  text-decoration: underline;
+}
